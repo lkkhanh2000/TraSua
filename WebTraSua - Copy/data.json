@@ -1,0 +1,13 @@
+{
+    "category": [
+      { "id": 1, "title": "Đi chơi", "price": 12, "description": "./PNG/1.jpg" },
+      { "id": 2, "title": "Đi chơi gáis", "price": 100, "description": "./PNG/1.jpg" },
+      { "id": 3, "title": "Đi làm", "price": 2000, "description": "./PNG/1.jpg" },
+      { "id": 4, "title": "Đi ăn", "price": 1112, "description": "./PNG/1.jpg" },
+      { "id": 5, "title": "Đi ngủ", "price": 1112, "description": "./PNG/1.jpg" },
+      { "id": 6, "title": "Đi ăn", "price": 1112, "description": "./PNG/1.jpg" },
+      { "id": 7, "title": "Đi ăn", "price": 1112, "description": "./PNG/1.jpg" },
+      { "id": 8, "title": "Đi ăn", "price": 1112, "description": "./PNG/1.jpg" }
+    ]
+}
+  
